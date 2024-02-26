@@ -1,4 +1,6 @@
-# Microsoft Azure
+# Microsoft Azure  ![azure](https://github.com/gellaharini27/MicrosoftAzure/assets/65754847/27567210-bbf9-4492-a0b5-3c69df1e0f79)
+
+
 **Fundamentals of Azure**
 
 **WHAT IS MICROSOFT AZURE?**

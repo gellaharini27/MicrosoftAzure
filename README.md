@@ -50,3 +50,6 @@ Infrastructure as a Service (IaaS) in Microsoft Azure is a cloud computing servi
 **Azure Blob Storage**: Provides scalable object storage for large amounts of unstructured data.
 
 **Azure Virtual Network**: Enables users to create private, isolated, and securely connected networks in the Azure cloud.
+
+
+![saas](https://github.com/gellaharini27/MicrosoftAzure/assets/65754847/2022916a-042d-4a04-b230-2d6560338f65)
